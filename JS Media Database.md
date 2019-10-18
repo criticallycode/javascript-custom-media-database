@@ -1,0 +1,3 @@
+This repo demonstrates a custom media database, created with Javascript, HTML, and CSS. It is intended to allow the user to keep track of pieces of media like movies, books, video games and TV shows. You can enter the type of media, the title, the completion status of the item, and any additional thoughts/notes on the item in question. After adding the item to the database, the entry can then be edited/updated and deleted. Stored items can be  loaded/read into the current list. Database entries are saved with IndexDb.  
+
+Thanks to [DailyTuition](https://www.youtube.com/watch?v=pcelNF8Ckhk) for the basis for this project.
